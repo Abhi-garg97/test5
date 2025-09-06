@@ -9,6 +9,7 @@ public class Test5Application {
 	public static void main(String[] args) {
 		int k =100;
 		float m = 10.3f;
+                char ch = 'z';
 		boolean isSubscribe= true;
 		SpringApplication.run(Test5Application.class, args);
 	}
