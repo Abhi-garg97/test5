@@ -7,7 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
+
 		String name= "smith";
+    int k =100;
+		float m = 10.3f;
+    char ch = 'z';
+		boolean isSubscribe= true;
+    String s = "mike";
+    double d = 11.4;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
