@@ -11,6 +11,7 @@ public class Test5Application {
 		float m = 10.3f;
                 char ch = 'z';
 		boolean isSubscribe= true;
+                String s = "mike";
                 double d = 11.4;
 		SpringApplication.run(Test5Application.class, args);
 	}
